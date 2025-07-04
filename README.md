@@ -44,13 +44,13 @@
       <h3>📈 Developer Productivity Tracker</h3>
       <img src="https://github.com/malidu04/malidu04/blob/main/productivity.gif?raw=true" width="100%"/>
       <p>Track your daily coding sessions and weekly goals with beautiful charts using React, Tailwind, and Recharts.</p>
-      <a href="https://github.com/malidu04/developer-productivity-tracker">View Code</a>
+      <a href="https://github.com/malidu04/Developer-Productivity-Tracker">View Code</a>
     </td>
     <td width="50%">
-      <h3>🛠️ Car Service Management System</h3>
-      <img src="https://github.com/malidu04/malidu04/blob/main/carservice.gif?raw=true" width="100%"/>
-      <p>A full-stack MERN application to manage appointments, car data, and service progress efficiently.</p>
-      <a href="https://github.com/malidu04/car-service-management">View Code</a>
+      <h3>📚 Wiki Management System</h3>
+      <img src="https://github.com/malidu04/malidu04/blob/main/wiki.gif?raw=true" width="100%"/>
+      <p>A MERN-based application for managing wiki articles with authentication, editing, and search functionality.</p>
+      <a href="https://github.com/malidu04/Knowledge-Base-Internal-Wiki-for-Small-Teams">View Code</a>
     </td>
   </tr>
 </table>
@@ -59,7 +59,7 @@
 
 ### 📫 Let's Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/malidu-pahasara">
+  <a href="www.linkedin.com/in/malidu-pahasara-89611527b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:malidupahasara48@gmail.com">
